@@ -1,6 +1,6 @@
-#Funcioamiento
+#Funcionamiento
 
-Te despliega un contenedor ngin con ssls de letsencrypt creadas automaticamente y las renueva.
+Te despliega un contenedor nginx con ssl de letsencrypt creadas automaticamente y las renueva.
 En la carpeta www van los ficheros de la pagina.
 En caso de desplegar mas de 1 web, añadir en el docker-compose un www2 y crear otra carpeta ww2
 
